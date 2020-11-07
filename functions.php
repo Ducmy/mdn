@@ -1,6 +1,7 @@
 <?php
 
 define('CACHE_CLEAR', '?20201108');
+define('THEME_URL', get_template_directory_uri());
 
 
 //Hàm để load css & javascript
